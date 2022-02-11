@@ -16,7 +16,6 @@
 <br />
 <br/>
 
-  <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Foto Estefania" src="" />
 <p>
  Estoy intruduciendome en el área de Data Science. Me considero una Data Science Trainee, lista para aprender! :smile: :books: 
 <br/>
