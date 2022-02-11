@@ -15,8 +15,8 @@
 
 ## Experiencia Laboral
 
+Empresa: [Universidad Empresarial Siglo21]( https://21.edu.ar/)
 ```sh
-Empresa: Universidad Empresarial Siglo 21. 
 Puesto: Analista Funcional.
 Tareas:
 - Identificación de las necesidades del negocio.
@@ -31,8 +31,8 @@ Tareas:
 Tiempo: 8 meses- Actualidad
 ```
 
+Empresa:  [DealerMovil](https://dealermovil.com/)
 ```sh
-Empresa: DealerMovil.
 Puesto: Desarrollador de Software Jr.
 Tareas:
 - Modificación y creación de nuevas consultas SQL para reportes. ORM: iBatis 
@@ -40,7 +40,7 @@ Tareas:
 - Desarrollo de nuevos reportes en lenguaje C# .NET en sistema administrativo.
 - Desarrollo de nuevas funcionalidades en lenguaje C# .NET.
 - Desarrollo de ABM en app mobile con Xamarin.
-- Desarrollo frontend para aplicación de captura de informaión.
+- Desarrollo frontend para aplicación de captura de información.
 - Peticiones GET y POST a web services.
 
 Tiempo: 1 año 6 meses
