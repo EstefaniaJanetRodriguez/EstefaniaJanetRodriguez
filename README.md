@@ -23,7 +23,7 @@
 -   💻 Fui desarrolladora de software ♥️ en [DealerMovil](https://dealermovil.com)
 -   📕 Estoy aprendiendo mucho sobre Data Science & Data Analysis ya que quiero llevar mi carrera profesional al máximo nivel en esa área.
 -   🎿 En mi tiempo libre: Voy al gimnasio, escucho música, salgo a caminar 😄👩
--   📫 Mi correo es: estefania.rodriguez1313@gmail.com}
+-   📫 Mi correo es: estefania.rodriguez1313@gmail.com
 -   📝 [MI CV](https://github.com/EstefaniaJanetRodriguez/EstefaniaJanetRodriguez/blob/main/Mi%20_Curriculum%20_Vitae.md) 
 
   
@@ -35,10 +35,16 @@
 
   <img align="left" style="margin-right:5px" alt="R" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrVjHD2AeJ1EFwJ05FPHhiAhDYnpq5NLrZduUyKQaMAbhlCZj2oQHMwpjKTyHaGZy69So&usqp=CAU" />
 
-   <img align="left" style="margin-right:5px" alt="Pwer BI" width="50px" src="https://i0.wp.com/mundowin.com/wp-content/uploads/2020/02/Can-I-use-Power-Bi-for-Free.jpg?w=832&ssl=1" />
+   <img align="left" style="margin-right:5px" alt="Power BI" width="50px" src="https://i0.wp.com/mundowin.com/wp-content/uploads/2020/02/Can-I-use-Power-Bi-for-Free.jpg?w=832&ssl=1" />
 
   <img align="left" style="margin-right:5px" alt="Tableau" width="100px" src="https://mma.prnewswire.com/media/411941/TABLEAU_SOFTWARE_LOGOjpg_Logo.jpg?p=facebook" />
 
+   <img align="left" style="margin-right:5px" alt="C#" width="54px" src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png" />
+  
+   <img align="left" style="margin-right:5px" alt="Jupiter" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+  
+   <img align="left" style="margin-right:5px" alt="SQL" width="120px" src="https://asphostcentral.com/Images/sqlserver2016.png" />
+ 
   
 </div>
 
