@@ -1,4 +1,4 @@
-### ¡Hola a todos! 👋, Soy Estefania Rodriguez - [Tefi](https://github.com/EstefaniaJanetRodriguez) 👨‍💻
+### ¡Hola a todos! 👋, Soy Estefania Rodriguez  👨‍💻
 
 <br/>
 
@@ -8,7 +8,7 @@
 </a>
 
 <a href="">
-  <img align="left" alt="Estefania | Gmail" width="29px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRVKhbzfY2CJJbQiLxsvCatFJER2T77mA8HDUg8sFClqUrWu4Ffk_ngCw6KzXW0fDYBrA&usqp=CAU" />
+  <img align="left" alt="Estefania | Gmail" width="29px" src="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQAAAAAUekxPAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfjBBoSCgh9tsURAAAAJElEQVRIx+3IMQ0AAAgDsPnXTMIEYICjPZs9Js4555xzzrlXV5nXFcLm+QLoAAAAAElFTkSuQmCC" />
 </a>
 
 </div>
@@ -18,30 +18,28 @@
 
   <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Foto Estefania" src="" />
 <p>
- Estoy intruduciendome en el área de Data Science. Al no poseer experincia en el area considero ser una Data Science Trainee, lista para aprender! :smile: :books: 
+ Estoy intruduciendome en el área de Data Science. Me considero una Data Science Trainee, lista para aprender! :smile: :books: 
 <br/>
 
   
-### ✨ Quick Facts
+### ✨ Sobre mi
 
--   👨🏽‍💻 I’m currently working on @Alegra 
--   🌱 I’m currently learning Javascript in depth
--   🎿 Hobbies other than coding : Play basketball , Playing single-player videogames , Thinking about writing stories or blog 🤔🤖..
--   📫 How to reach me: javcho@skrin.tech
--   📝 [Resume](https://drive.google.com/file/d/133DORKs_g-qGfoibV_JtRnGq-9iGkq-p/view?usp=sharing) (old)
--   ♥ Follow me on [![GitHub followers](https://img.shields.io/github/followers/javcho23?label=Follow&style=social)](https://github.com/javcho23/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@javcho23-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
-and be a part of my journey... and See if I can make it or not!
+-   👨🏽‍💻 Actualmente trabajo en [Universidad Empresarial Siglo21](https://21.edu.ar) como Analista Funcional
+-   💻 Fui desarrolladora de software ♥️ en [DealerMovil](https://dealermovil.com)
+-   📕 Estoy aprendiendo mucho sobre Data Science & Data Analysis ya que quiero llevar mi carrera profesional al máximo nivel en esa área.
+-   🎿 En mi tiempo libre: Voy al gimnasio, escucho música, salgo a caminar 😄👩
+-   📫 Mi correo es: estefania.rodriguez1313@gmail.com
+-   📝 [MI CV](https://github.com/EstefaniaJanetRodriguez/EstefaniaJanetRodriguez/blob/main/Mi%20_Curriculum%20_Vitae.md) 
+-   
 
 ### 🛠️ Languajes y Herramientas:
 
 <div style="display:flex; align-items:center">
-<a href="https://www.linkedin.com/in/estefania-rodriguez-9a15a6177/">
-  <img align="left" style="margin-right:5px" alt="Linkedin Estefania Rodriguez" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+<a href="">
+  <img align="left" style="margin-right:5px" alt="Phyton" width="44px" src="https://miro.medium.com/max/374/1*wP8ubuQEIrtxtfd-DTOTig.jpeg" />
 </a>
 
-<a href="">
-  <img align="left" alt="Estefania | Gmail" width="29px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRVKhbzfY2CJJbQiLxsvCatFJER2T77mA8HDUg8sFClqUrWu4Ffk_ngCw6KzXW0fDYBrA&usqp=CAU" />
-</a>
+
 
 </div>
 
