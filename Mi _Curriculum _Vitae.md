@@ -2,8 +2,6 @@
 
 ### Mi nombre es Estefania Rodriguez y a continuación te presento mi CV.
 
-![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)
-
 
 ## Educación 
 
@@ -25,8 +23,10 @@
 
 ## Experiencia Laboral
 
+![N|Solid](https://media-exp1.licdn.com/dms/image/C4D03AQGi6_AzWgxGxg/profile-displayphoto-shrink_200_200/0/1619024240496?e=1645056000&v=beta&t=p_L_NaKzgDt_97zWduWFR5MyFkJQCkkEOiOKzVk8M_8)
+
 ```sh
-Empresa: Universidad Empresarial Siglo 21.
+Empresa: Universidad Empresarial Siglo 21. 
 Puesto: Analista Funcional.
 Tareas:
 - Identificación de las necesidades del negocio.
