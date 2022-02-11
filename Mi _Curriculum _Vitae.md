@@ -70,9 +70,7 @@ Porfavor, presione [aqui](https://www.udemy.com/share/103Bd43@Ah5yoxgxmAGhS-hDHz
 - Linkedin: https://www.linkedin.com/in/estefania-rodriguez-9a15a6177/
 
 ---
-<br/>
 
 ¡Gracias!:heart:
 
-<br/>
 
