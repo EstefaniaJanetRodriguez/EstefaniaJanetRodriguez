@@ -20,7 +20,7 @@
 ### ✨ Sobre mi
 
 -   👨🏽‍💻 Actualmente trabajo en [Universidad Empresarial Siglo21](https://21.edu.ar) como Analista Funcional
--   💻 Fui desarrolladora de software ♥️ en [DealerMovil](https://dealermovil.com)
+-   💻 Fui desarrolladora de software en [DealerMovil](https://dealermovil.com)  ♥️
 -   📕 Estoy aprendiendo mucho sobre Data Science & Data Analysis ya que quiero llevar mi carrera profesional al máximo nivel en esa área.
 -   🎿 En mi tiempo libre: Voy al gimnasio, escucho música, salgo a caminar 😄👩
 -   📫 Mi correo es: estefania.rodriguez1313@gmail.com
