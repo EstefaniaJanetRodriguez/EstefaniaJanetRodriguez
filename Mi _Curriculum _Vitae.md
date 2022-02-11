@@ -1,29 +1,19 @@
-### ¡Hola! 👋
+                                                             ¡Hola! 👋
 
-### Mi nombre es Estefania Rodriguez y a continuación te presento mi CV.
+                                     Mi nombre es Estefania Rodriguez y a continuación te presento mi CV.
 
 
 ## Educación 
 
-> Carrera: MBA en Administración de Empresas.  |
-> Inicio 2022 - Actualidad.  |
-> Institución: ISEB: Instituto Superior Europeo de Barcelona.  |
-
-
-> Carrera: Master en Big Data & Business Intelligence.  |
-> Inicio 2021 - Fin 2022.  |
-> Institución: ISEB: Instituto Superior Europeo de Barcelona.  |
-
-
-> Carrera: Ingeniería en Informática.  |
-> Inicio 2014 - Fin 2019.  |
-> Institución: UCASAL: Universidad Católica de Salta.  |
+| Carrera | Inicio - Fin | Estado | Institución |
+| ------ | ------ | ------ | ------ |
+| MBA en Administración de Empresas. | 2022- Actualidad | En curso | ISEB: Instituto Superior Europeo de Barcelona. |
+| Master en Big Data & Business Intelligence. | 2021 - 2022 | Finalizado. | ISEB: Instituto Superior Europeo de Barcelona. |
+| Ingeniería en Informática. | 2014 - 2019 | Finalizado. | UCASAL: Universidad Católica de Salta.
 
 
 
 ## Experiencia Laboral
-
-![N|Solid](https://media-exp1.licdn.com/dms/image/C4D03AQGi6_AzWgxGxg/profile-displayphoto-shrink_200_200/0/1619024240496?e=1645056000&v=beta&t=p_L_NaKzgDt_97zWduWFR5MyFkJQCkkEOiOKzVk8M_8)
 
 ```sh
 Empresa: Universidad Empresarial Siglo 21. 
@@ -33,10 +23,12 @@ Tareas:
 - Relevamiento de requerimientos.
 - Creación de historias de usuario.
 - Testing manual de nuevas funcionalidades pre-producción.
+- Inducción a los usuarios en nuevas funcionalidades.
 - Documentación - ERS.
 - Consultas en bases de datos de Oracle - Procedimientos almacenados.
+- Metodología SCRUM.
 
-Duración: 8 meses- Actualidad
+Tiempo: 8 meses- Actualidad
 ```
 
 ```sh
@@ -51,7 +43,7 @@ Tareas:
 - Desarrollo frontend para aplicación de captura de informaión.
 - Peticiones GET y POST a web services.
 
-Duración: 1 año 6 meses
+Tiempo: 1 año 6 meses
 ```
 
 ## Cursos
@@ -67,7 +59,7 @@ Duración: 1 año 6 meses
 
 
 ## Portafolio
-En el repoitorio llamado "Mis trabajos" podrá ver mis proyectos.
+En el repositorio llamado "[Mis Trabajos](https://www.udemy.com/share/103Bd43@Ah5yoxgxmAGhS-hDHzUThfq7pCAvt9PYWEt4yQnSrczw2Rqw7HV-LcgtIRd3OV-W/) " podrá ver mis proyectos.
 
 
 ## Contacto
@@ -77,4 +69,4 @@ En el repoitorio llamado "Mis trabajos" podrá ver mis proyectos.
 
 
 
-**¡Gracias!**
+                                                            ¡Gracias!
