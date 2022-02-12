@@ -1,6 +1,6 @@
-### ¡Hola de nuevo! 👋
+### ¡Hola de nuevo! 👋😄
 
-A continuación podrás ver mi CV. 
+A continuación podrás ver mi CV. ⬇️
 
 
 ## Educación 🏫
@@ -55,13 +55,40 @@ Tiempo: 1 año 6 meses
 - [Ciencia de datos para todo público](https://www.udemy.com/share/103Y5M3@hx4UtAm0fqAVeP2dgRJQJ8KdWH0Fw0XY8VzaeD4EiMSdSst8MJMfdYZzGwq19ERy/) 
 - [Introducción a Machine Learning]()
 - [Analítica Web]()
+- [UX/UI Web]()
 
 
 ## Conocimientos 📖
 
+Leer horizontalmente, es decir por filas:
+
+1️⃣ - Relacionados A Data Science & Data Analysis:
+
+| 1 | 2 | 3 | 4 | 5 |
+| ------ | ------ | ------ | ------ | ------ |
+| Tableros en Power BI: DAX |  Importar datos de Excel en Tableau y Power BI | Análisis de datos mediante la creacion de dashboards. | Técnicas de minería de datos | Metodología CRISP-DM |
+| DataFrames | Cuadernos | Pandas | Matlab | GGPlot |
+| En R y Phyton: Filter, Group by, select, Joins | En Analítica Web: Google Analytics: cantidad de visitas a la web, dispositivo del que se conecta, actividad dentro de la web | Phyton | Big Data - Teoría | R - RCloud  | ETL - Teoría | Jupiter | Customer Analytics |
+
+
+
+Leer verticalmente, es decir por columnas:
+
+2️⃣ - Otros:
+
+| Lenguajes | Frameworks | Bases de Datos | De trabajo | Otros |
+| ------ | ------ | ------ | ------ | ------ |
+| C# | VueJS - Básico. | SQL Server. | Jira - Trello. | HTML, CSS, Boopstrapt |
+| Phyton | ReactJS - Básico. | PL-SQL. (Store Procedure) - Básico | Confluence | Peticiones GET y POST a webservices. |
+| Javascript |  | MongoDB | Teams - Slack. | UX/UI: Principios de Usabilidad. |
+| R |  |  |  | Metodología SCRUM |
+
+
+
+
 
 ## Portafolio 💼
-Porfavor, presione [aqui](https://www.udemy.com/share/103Bd43@Ah5yoxgxmAGhS-hDHzUThfq7pCAvt9PYWEt4yQnSrczw2Rqw7HV-LcgtIRd3OV-W/) para ver mis proyectos.
+Porfavor, presione 👉[aqui](https://www.udemy.com/share/103Bd43@Ah5yoxgxmAGhS-hDHzUThfq7pCAvt9PYWEt4yQnSrczw2Rqw7HV-LcgtIRd3OV-W/)👈 para ver mis proyectos.
 
 
 ## Contacto 📱
