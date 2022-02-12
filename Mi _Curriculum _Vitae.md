@@ -2,6 +2,16 @@
 
 A continuación podrás ver mi CV. ⬇️
 
+---
+
+CURRICULUM VITAE 
+<br\>
+ESTEFANIA RODRIGUEZ
+<br\>
+DATA SCIENCE TRAINEE 
+<br\>
+---
+
 
 ## Educación 🏫
 
