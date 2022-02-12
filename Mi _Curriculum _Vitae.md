@@ -1,6 +1,3 @@
-### ¡Hola de nuevo! 👋😄
-
-A continuación podrás ver mi CV. ⬇️
 
 ---
 <p align="center"><strong>CURRICULUM VITAE <strong/> <p/>
