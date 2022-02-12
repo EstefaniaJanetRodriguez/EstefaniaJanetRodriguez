@@ -3,14 +3,11 @@
 A continuación podrás ver mi CV. ⬇️
 
 ---
+<p align="center"><strong>CURRICULUM VITAE <strong/> <p/>
+<p align="center"><strong>Estefania Rodriguez - Data Science Trainee <strong/><p/>
 
-CURRICULUM VITAE 
-<br\>
-ESTEFANIA RODRIGUEZ
-<br\>
-DATA SCIENCE TRAINEE 
-<br\>
 ---
+
 
 
 ## Educación 🏫
@@ -98,7 +95,7 @@ Leer verticalmente, es decir por columnas:
 
 
 ## Portafolio 💼
-Porfavor, presione 👉[aqui](https://www.udemy.com/share/103Bd43@Ah5yoxgxmAGhS-hDHzUThfq7pCAvt9PYWEt4yQnSrczw2Rqw7HV-LcgtIRd3OV-W/)👈 para ver mis proyectos.
+Porfavor, presioná 👉[aqui](https://www.udemy.com/share/103Bd43@Ah5yoxgxmAGhS-hDHzUThfq7pCAvt9PYWEt4yQnSrczw2Rqw7HV-LcgtIRd3OV-W/)👈 para ver mis proyectos.
 
 
 ## Contacto 📱
