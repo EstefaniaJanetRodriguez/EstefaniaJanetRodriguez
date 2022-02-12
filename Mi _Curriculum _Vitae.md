@@ -85,7 +85,7 @@ Leer verticalmente, es decir por columnas:
 | ------ | ------ | ------ | ------ | ------ |
 | C# | VueJS - Básico. | SQL Server. | Jira - Trello. | HTML, CSS, Boopstrapt |
 | Phyton | ReactJS - Básico. | PL-SQL. (Store Procedure) - Básico | Confluence | Peticiones GET y POST a webservices. |
-| Javascript |  | MongoDB | Teams - Slack. | UX/UI: Principios de Usabilidad. |
+| Javascript |  |  | Teams - Slack. | UX/UI: Principios de Usabilidad. |
 | R |  |  |  | Metodología SCRUM |
 
 
