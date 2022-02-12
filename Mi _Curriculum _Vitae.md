@@ -95,7 +95,10 @@ Leer verticalmente, es decir por columnas:
 ## Portafolio 💼
 Porfavor, presioná 👉[aqui](https://github.com/EstefaniaJanetRodriguez/Mi-Portafolio)👈 para ver mis proyectos.
 
-
+  
+## Idioma 📚💻�
+  - Inglés básico. 😅
+  
 ## Contacto 📱
 - Tel: 3518624607
 - Email: estefania.rodriguez1313@gmail.com
