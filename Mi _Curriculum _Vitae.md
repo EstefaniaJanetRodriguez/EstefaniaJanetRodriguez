@@ -94,7 +94,7 @@ Leer verticalmente, es decir por columnas:
 Porfavor, presioná 👉[aqui](https://github.com/EstefaniaJanetRodriguez/Mi-Portafolio)👈 para ver mis proyectos.
 
   
-## Idioma 📚💻�
+## Idioma 📚💻
   - Inglés básico. 😅
   
 ## Contacto 📱
