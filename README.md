@@ -13,7 +13,7 @@
 <br/>
 
 <p>
- Estoy intruduciéndome en el área de Data Science. Me considero una Data Science Trainee, lista para aprender! :smile: :books: :muscle:
+ Estoy intruduciéndome en el área de Data Science. Me considero una Data Science Junior, lista para aprender! :smile: :books: :muscle:
 <br/>
 
   
