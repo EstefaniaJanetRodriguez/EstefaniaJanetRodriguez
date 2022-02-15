@@ -98,9 +98,7 @@ Porfavor, presioná 👉[aqui](https://github.com/EstefaniaJanetRodriguez/Mi-Por
   - Inglés básico. 😅
   
 ## Contacto 📱
-- Tel: 3518624607
 - Email: estefania.rodriguez1313@gmail.com
-- Linkedin: https://www.linkedin.com/in/estefania-rodriguez-9a15a6177/
 
 ---
 
