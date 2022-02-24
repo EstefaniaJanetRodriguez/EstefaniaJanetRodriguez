@@ -13,7 +13,7 @@
 <br/>
 
 <p>
- Estoy intruduciéndome en el área de Data Science y Data Analysis. Me considero una Data Science Junior, lista para aprender! :smile: :books: :muscle:
+ Estoy intruduciéndome en el área de Data Science y Data Analysis. Me considero con un seniority Junior, lista para aprender! :smile: :books: :muscle:
 <br/>
 
   
