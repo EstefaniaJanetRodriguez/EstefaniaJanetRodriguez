@@ -1,7 +1,7 @@
 
 ---
 <p align="center"><strong>CURRICULUM VITAE <strong/> <p/>
-<p align="center"><strong>Estefania Rodriguez - Data Science Junior <strong/><p/>
+<p align="center"><strong>Estefania Rodriguez - Data Science Junior | Data Analysis Junior<strong/><p/>
 
 ---
 
