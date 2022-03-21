@@ -97,7 +97,8 @@ Porfavor, presioná 👉[aqui](https://github.com/EstefaniaJanetRodriguez/Mi-Por
 
   
 ## Idioma 📚💻
-  - Inglés básico. 😅
+  - Inglés básico. 😅 Estudiando actualmente para mejorar el habla. 
+    Escritura y lectura intermedio.
   
 ## Contacto 📱
 - Email: estefania.rodriguez.1313@gmail.com
