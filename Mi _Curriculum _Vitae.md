@@ -72,10 +72,12 @@ Leer horizontalmente, es decir por filas:
 
 | 1 | 2 | 3 | 4 | 5 |
 | ------ | ------ | ------ | ------ | ------ |
-| Tableros en Power BI: DAX |  Importar datos de Excel en Tableau y Power BI | Análisis de datos mediante la creacion de dashboards. | Técnicas de minería de datos | Metodología CRISP-DM |
+
 | DataFrames | Cuadernos | Pandas | Matlab | GGPlot |
 | En R y Phyton: Filter, Group by, select, Joins | En Analítica Web: Google Analytics: cantidad de visitas a la web, dispositivo del que se conecta, actividad dentro de la web | Phyton | Big Data - Teoría | R - RCloud  | ETL - Teoría | Jupiter | Customer Analytics |
 | Algoritmos de Data Science | Perceptrón | K-Means  | Decision Tree | Lineal Regresion |
+| NumPy |  |   |  |  |
+| Tableros en Power BI: DAX |  Importar datos de Excel en Tableau y Power BI | Análisis de datos mediante la creacion de dashboards. | Técnicas de minería de datos | Metodología CRISP-DM |
 
 
 
