@@ -1,7 +1,7 @@
 
 ---
 <p align="center"><strong>CURRICULUM VITAE <strong/> <p/>
-<p align="center"><strong>Estefania Rodriguez - Data Science Junior | Data Analysis Junior<strong/><p/>
+<p align="center"><strong>Estefania Rodriguez - Data Science Junior r<strong/><p/>
 
 ---
 
@@ -58,6 +58,7 @@ Tiempo: 1 año 6 meses
 - [Introduccion a R](https://www.udemy.com/share/104CFM3@bgjElEWjm6JWpanppCIDgpRHpczObDHWrzoWF6odnvJJqrpQyo2ZsPieuIZIWGAS/)
 - [Ciencia de datos para todo público](https://www.udemy.com/share/103Y5M3@hx4UtAm0fqAVeP2dgRJQJ8KdWH0Fw0XY8VzaeD4EiMSdSst8MJMfdYZzGwq19ERy/) 
 - [Introducción a Machine Learning]()
+- [Machine Learning - Conceptos](https://www.udemy.com/share/105qM63@7r6NgREqG3ImnsxFEWIVY8pw5bA3kYsKG8u3e8o1H9Gup12XQlyh5geDrEsZ1Aa3/)
 - [Artificial Neural Networks with NeuroLab and Python](https://www.udemy.com/course/neuralnets/)
 - [Analítica Web]()
 - [UX/UI Web]()
