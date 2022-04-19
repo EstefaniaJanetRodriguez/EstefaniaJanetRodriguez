@@ -24,7 +24,6 @@
 -   📕 Estoy aprendiendo mucho sobre Data Science & Data Analysis ya que quiero llevar mi carrera profesional al máximo nivel en el área de datos.
 -   🎿 En mi tiempo libre: Voy al gimnasio, escucho música, salgo a caminar 😄👩
 -   📫 Mi correo es: estefania.rodriguez.1313@gmail.com
--   📝 [MI CV](https://github.com/EstefaniaJanetRodriguez/EstefaniaJanetRodriguez/blob/main/Mi%20_Curriculum%20_Vitae.md) 
 
   
 ### 🛠️ Languajes y Herramientas:
