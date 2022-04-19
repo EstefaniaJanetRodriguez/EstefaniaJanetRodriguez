@@ -13,7 +13,7 @@
 <br/>
 
 <p>
- Estoy intruduciéndome en el área de Data Science. Considero tener un seniority Junior, lista para aprender! :smile: :books: :muscle:
+ Estoy intruduciéndome en el área de Data Science. Considero tener un seniority Junior. Y estoy lista para seguir aprendiendo! :smile: :books: :muscle:
 <br/>
 
   
