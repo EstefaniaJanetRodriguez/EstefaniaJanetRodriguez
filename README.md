@@ -1,5 +1,4 @@
 ### ¡Hola! 👋  Soy Estefania Rodriguez  👨‍💻
-<br/>
 
 <p>
  Estoy intruduciéndome en el área de Data Science. Considero tener un seniority Junior. Y estoy lista para seguir aprendiendo! :smile: :books: :muscle:
