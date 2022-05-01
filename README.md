@@ -14,7 +14,7 @@
 -   📕 Estoy aprendiendo mucho sobre Data Science ya que quiero llevar mi carrera profesional al máximo nivel en el área de datos.
 -   🎿 En mi tiempo libre: Voy al gimnasio, escucho música, estudio o salgo a caminar ! 😄👩
 -   📫 Mi correo es: estefania.rodriguez.1313@gmail.com
--   ![Mi LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/estefania-rodriguez-9a15a6177/)
+-   Mi LinkedIn es:  [Estefania Rodriguez](https://www.linkedin.com/in/estefania-rodriguez-9a15a6177/)
 
   
 ### 🛠️ Languajes y Herramientas:
