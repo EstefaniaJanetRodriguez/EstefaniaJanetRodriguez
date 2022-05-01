@@ -38,13 +38,14 @@
 <br/>
 <br/>
 
+---
+
 ### ¡Hello! 👋  I am Estefania Rodriguez  👨‍💻
 
 <p>
  I am introducing in Data Science area. I think to have a Junior seniority and I am ready to continue learning! :smile: :books: :muscle:
 <br/>
 
---- 
 ### ✨ About me
 
 -   👨🏽‍💻 Actually I work in [Universidad Empresarial Siglo21](https://21.edu.ar) as Functional Analyst
