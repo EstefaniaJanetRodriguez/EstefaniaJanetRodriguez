@@ -3,6 +3,7 @@
 <br/>
 
 <div style="display:flex; align-items:center">
+  <p> Presioná el ícono y podrás ir a mi LinkedIn
 <a href="https://www.linkedin.com/in/estefania-rodriguez-9a15a6177/">
   <img align="left" style="margin-right:5px" alt="Linkedin Estefania Rodriguez" width="22px" src="https://cdn.icon-icons.com/icons2/17/PNG/256/sociallinkedin_member_2125.png" />
 </a>
