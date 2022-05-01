@@ -44,10 +44,10 @@
  I am introducing in Data Science area. I think to have a Junior seniority and I am ready to continue learning! :smile: :books: :muscle:
 <br/>
 
-  
+--- 
 ### ✨ About me
 
--   👨🏽‍💻 Actually I work in [Universidad Empresarial Siglo21](https://21.edu.ar) como Analista Funcional
+-   👨🏽‍💻 Actually I work in [Universidad Empresarial Siglo21](https://21.edu.ar) as Functional Analyst
 -   💻 I was a software developer at [DealerMovil](https://dealermovil.com)  ♥️
 -   📕 I am learning a lot about Data Science as I want to take my career to the highest level in the data field.
 -   🎿 In my free time: I go to the gym, listen to music, study or go for a walk ! 😄👩
