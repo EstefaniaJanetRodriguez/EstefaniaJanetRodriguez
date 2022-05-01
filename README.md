@@ -32,10 +32,12 @@
    <img align="left" style="margin-right:5px" alt="Jupiter" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
   
    <img align="left" style="margin-right:5px" alt="SQL" width="120px" src="https://asphostcentral.com/Images/sqlserver2016.png" />
+ <br/>
 </div>
 
 <br/>
 <br/>
+
 ### ¡Hello! 👋  I am Estefania Rodriguez  👨‍💻
 
 <p>
